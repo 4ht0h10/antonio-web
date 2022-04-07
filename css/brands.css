@@ -93,7 +93,7 @@
   background-color: #7b16ff }
 .button.button-slack:hover,
 .button.button-slack:hover:before {
-  content: 'En esta comunidad, vas a poder conectarte para charlar con otros Pelades sobre temas de tecnologías como las que hablo en el canal, y consultar dudas y ayudar a los demás!';
+  content: 'Slack me gusta más que Discord, en gran parte porque no soy un adolescente sin criterio.';
   white-space: initial; }
 
 /* Kit */
@@ -102,7 +102,7 @@
   background-color: #10c694 }
 .button.button-kit:hover,
 .button.button-kit:hover:before {
-    content: 'Aquí vas a encontrar la lista completa y actualizada de todo el hardware que uso para trabajar y hacer mis videos de YouTube.';
+    content: 'Contenedores que voy necesitando y compartiendo porque el mundo los necesita';
     white-space: initial; }
 
 /* YouTube */
@@ -147,7 +147,7 @@
   background-color: #E8F3EC }
 .button.button-mail:hover,
 .button.button-mail:hover:before {
-    content: 'Haciendo click aquí, puedes enviarme un mail, puedo tardar en responder!';
+    content: 'Haciendo click aquí puedes enviarme un mail que leeré.. en algún momento';
     white-space: initial; }
 
 /* Ko-Fi */
