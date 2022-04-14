@@ -93,7 +93,7 @@
   background-color: #7b16ff }
 .button.button-slack:hover,
 .button.button-slack:hover:before {
-  content: 'Slack me gusta más que Discord, en gran parte porque no soy un adolescente sin criterio.';
+  content: 'Slack. Me gusta más que Discord, principalmente porque no soy un adolescente sin criterio.';
   white-space: initial; }
 
 /* Kit */
@@ -102,7 +102,7 @@
   background-color: #10c694 }
 .button.button-kit:hover,
 .button.button-kit:hover:before {
-    content: 'Contenedores que voy necesitando y compartiendo porque el mundo los necesita';
+    content: 'Contenedores que voy creando y compartiendo porque el mundo los necesita';
     white-space: initial; }
 
 /* YouTube */
